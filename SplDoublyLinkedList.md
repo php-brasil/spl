@@ -293,7 +293,7 @@ $filo->push(2);
 $filo->push(3);
 
 while ($filo->count()) {
-    printf("%s\n", $fifo->pop());
+    printf("%s\n", $filo->pop());
 }
 ```
 
