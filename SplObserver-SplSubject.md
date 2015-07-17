@@ -4,8 +4,8 @@ Durante uma discussão no PHP Brasil, descobrimos que há uma baixa aceitação 
 
 ## Interfaces SplObserver e SplSubject
 
-Além de clases, a SPL oferece algumas interfaces pra você mesmo implementar o comportamento.
-Duas delas são a SplObserver e SplSubject que andam justas pra implentação do **Design Pattern Observer**.
+Além de clases, a SPL oferece algumas interfaces para implementação do comportamento.
+Duas delas são a [SplObserver](http://php.net/manual/en/class.splobserver.php) e [SplSubject](http://php.net/manual/en/class.splsubject.php) que andam juntas para implementação do [Design Pattern Observer](https://en.wikipedia.org/wiki/Observer_pattern).
 
 ## O Design Pattern Observer
 
